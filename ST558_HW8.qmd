@@ -1,0 +1,27 @@
+---
+title: "ST 558 Homework 8"
+author: "Lee Bennett"
+format: html
+editor: visual
+---
+
+## Introduction
+
+Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+
+## Importing the Data
+
+
+## Exploratory Data Analysis
+
+
+## Partitioning the Data
+
+
+## Model Training
+
+
+## Final Predictive Model
+
+
+
